@@ -235,7 +235,7 @@ nav a:hover { color: rgb(237, 190, 0); }
 
 
 #one {
-  background-image: '../../images/sol_1.jpg';
+  background-image: url('~/images/sol_1.jpeg');
 }
 
 #two {
