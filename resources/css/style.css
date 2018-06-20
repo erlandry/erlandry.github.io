@@ -239,11 +239,11 @@ nav a:hover { color: rgb(237, 190, 0); }
 }
 
 #two {
-  background-image: url(../resources/images/sol_3.jpg);
+  background-image: url(file:///Users/emily/documents/projects/conservation_website/resources/images/sol_3.jpg);
 }
 
 #three {
-  background-image: url(file:///Users/emily/documents/projects/conservation_website/resources/images/solmain.jpg);
+  background-image: url(file:///Users/emily/documents/projects/elandry.github.io/resources/images/solmain.jpg);
 }
 
 #four {
