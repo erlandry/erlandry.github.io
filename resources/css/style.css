@@ -235,7 +235,11 @@ nav a:hover { color: rgb(237, 190, 0); }
 
 
 #one {
-  background-image: url(~/resources/images/sol_1.jpeg);
+  background: url(images/sol_1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #two {
