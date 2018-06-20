@@ -243,7 +243,7 @@ nav a:hover { color: rgb(237, 190, 0); }
 }
 
 #three {
-  background-image: ~/resources/images/solmain.jpg ;
+  background-image: file:///Users/emily/documents/projects/conservation_website/resources/images/solmain.jpg ;
 }
 
 #four {
