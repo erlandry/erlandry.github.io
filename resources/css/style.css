@@ -235,7 +235,7 @@ nav a:hover { color: rgb(237, 190, 0); }
 
 
 #one {
-  background: url(images/sol_1.jpg) no-repeat center center fixed;
+  background: url("https://github.com/erlandry/erlandry.github.io/blob/master/resources/images/solmain.jpg?raw=true") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
